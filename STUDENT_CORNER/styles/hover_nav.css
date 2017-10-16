@@ -1,0 +1,29 @@
+.navb:hover
+{
+  background-color:#0275d8;
+}
+.subMenu
+{
+  color: grey;
+  background-color:#292b2c;
+}
+
+.bgb
+{
+  background-color: #202020;
+}
+.black-cards
+{
+  background-color: #292b2c;
+  color: grey;
+}
+.black-cards-title
+{
+  background-color: #292b2c;
+  color:#0275d8 ;
+}
+.black-cards-footer
+{
+  background-color: #292b2c;
+  color:white ;
+}
